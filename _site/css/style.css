@@ -1,7 +1,7 @@
 /* Website template by freewebsitetemplates.com */
 body {
 	background: url(../images/bg-body.jpg) repeat left top;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Aerial, Helvetica, sans-serif;
 	margin: 0;
 }
 img {
@@ -271,4 +271,7 @@ img {
 	width: 960px;
 	margin: 0 auto;
 	text-align: center;
+}
+.img123{
+	padding-top: 50px;
 }
