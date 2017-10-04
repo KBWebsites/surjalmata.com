@@ -80,16 +80,16 @@ img {
 #contents a:hover {
 	color: #ce8763;
 }
-/** Adbox **/
-#contents div#adbox {
+/** meow **/
+#contents div#meow {
 	margin-bottom: 36px;
 	padding: 0;
 	text-align: center;
 }
-#adbox img {
+#meow img {
 	margin-bottom: 24px;
 }
-#adbox p {
+#meow p {
 	width: 600px;
 	text-align: center;
 	text-indent: 40px;
