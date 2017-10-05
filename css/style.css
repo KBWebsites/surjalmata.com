@@ -149,7 +149,7 @@ img {
 /** MAIN **/
 #main {
 	float: left;
-	min-height: 100px;
+	min-height: 50px;
 	width: 520px;
 	margin: 0 30px 0 100px;
 }
